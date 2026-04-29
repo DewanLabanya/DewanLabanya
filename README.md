@@ -1,54 +1,34 @@
-<h1 align="center">Hi 👋, I'm Labanya Dewan</h1>
-<h3 align="center">📊 Data Science Student | 🧠 ML Enthusiast | 🚀 Future AI Engineer</h3>
+<div align="center">
+  <img height="150" src="https://github.com/user-attachments/assets/ae76ce8c-8a3f-4ec1-aba0-5bf996b79551" />
+</div>
 
----
+<h1 align="center">Welcome to my GitHub 👋</h1>
 
-## 🚀 About Me  
+## 👩‍💻 About Me
 
-- 🎓 Data Science Student  
-- 📚 Currently learning **Machine Learning & Deep Learning**  
-- 🔍 Passionate about **AI, Data Analytics, and Visualization**  
-- 💡 Love turning data into insights  
-- ⚡ Fun fact: I speak Python 🐍  
+- 🏛️ I am studying **Data Science and AI at Leeds Beckett University**.
+- 📚 I am currently learning **Python, SQL, and RStudio**
+- 🎮 Right now, I am building a **survival game in Python**
+- 📊 I am also working on a **statistics project in RStudio**
+- 💡 In my free time, I like making small games in Python and exploring SQL
 
----
+## 🛠 Languages and Tools
 
-## 🛠️ Tech Stack  
+**Python** • **SQL** • **RStudio** • **Oracle APEX**
 
-### 👨‍💻 Programming Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r" />
-</p>
-
-### 📊 Data Science & ML  
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
-
-### 🗄️ Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 📈 Tools & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
-
----
+## 🚀 Projects and Experience
+- Will Start teaching at **Code Club in June 2026**
+- Presented a poster at the **BCS Lovelace Colloquium 2026** at the **University of Bath** and the Poster topic was **Data Weaponization: The Risks of Data Consolidation and Repurposing**
+- Worked with the famous **Titanic dataset** at Pydata event, where I learned about **machine learning, data cleaning, and data analysis**
 
 
-## 🌐 Connect With Me  
+## 📖 Interests
+- Fond of NASA and their missions 
+- Favourite book: **Weapons of Math Destruction** by **Cathy O’Neil**
+- I also enjoy attending events like **PyData**, where I can meet coders and tech enthusiasts
 
-<p align="center">
+## 🔗 Connect with Me
 
-  <a href="mailto:labanyadewan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
- 
-</p>
-
-
-<p align="center">
-  ⭐ From <a href="https://github.com/yourusername">DewanLabanya</a>
-</p>
+<a href="https://www.linkedin.com/in/labanya-dewan-545a503b8/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
